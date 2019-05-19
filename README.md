@@ -1,7 +1,7 @@
 # Practica_AWS
 * Practica_AWS - Curso_Aplicaciones_web_avanzado
 
-Se explicará cómo crear una VM/instancia en AWS, conectarnos a ella a través de una computadora local mediante SSH y se configurará una aplicación que te enviará recordatorios a tu correo basándose en la información de Excel.
+Se explicará cómo crear una VM/instancia en AWS, conectarnos a ella a través de una computadora local mediante SSH y se configurará una aplicación que enviará recordatorios a un correo especifico, basándose en la información de un archivo en Excel.
 
 ## Por qué usar AWS?
 Amazon Web Services proporciona una plataforma de infraestructura escalable, de confianza y de bajo costo en la nube. [enlace](https://aws.amazon.com/es/about-aws/)
