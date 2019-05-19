@@ -1,0 +1,3 @@
+descripcion,fecha,recordatorio,repeticion
+Recordatorio con cron 3,1999-03-28,-1d,a
+Recordatorio test del 29 de marzo,1999-03-29,-1d,a
