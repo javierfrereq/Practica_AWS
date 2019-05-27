@@ -9,7 +9,7 @@ Amazon Web Services proporciona una plataforma de infraestructura escalable, de 
 ### Creación de VM/instancia en AWS y configuración necesaria para conexión remota. 
 
 Procedemos a crear una VM con los requerimientos necesarios a través del dashboard que ofrece AWS. 
-Una vez creada podremos visualizar los siguiente:
+Una vez creada podremos visualizar lo siguiente:
 ![MV](https://user-images.githubusercontent.com/32844919/57976965-c3f0f980-79b2-11e9-9f41-6b2c1cf9cd6f.PNG)
 
 Nos conectaremos a la instancia creada a través del cliente SSH y para eso necesitamos crear un “archivo.pem”. 
